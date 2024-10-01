@@ -2,6 +2,9 @@
 
 Este proyecto es una pequeña aplicación realizada con laravel 10 y livewire 3. Con esta aplicación se puede realizar la autenticación de usuarios y la gestión de tareas diarias.
 
+### Desarrollador
+- Fanny Farro
+
 ## Funcionalidades
 - Registro de usuarios
 - Inicio de sesión
