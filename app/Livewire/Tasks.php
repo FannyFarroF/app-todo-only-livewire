@@ -64,6 +64,11 @@ class Tasks extends Component
         $this->render();
     }
 
+    public function updatedSearch(){
+        $this->filter = true;
+        $this->render();
+    }
+
     public function render()
     {
         // get tasks
