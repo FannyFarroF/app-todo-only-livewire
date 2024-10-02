@@ -4,9 +4,6 @@ Este proyecto es una pequeña aplicación realizada con laravel 10 y livewire 3.
 
 ![Imagen del app](public/image_app.png)
 
-### Desarrollador
-- Fanny Farro
-
 ## Funcionalidades
 - Registro de usuarios
 - Inicio de sesión
