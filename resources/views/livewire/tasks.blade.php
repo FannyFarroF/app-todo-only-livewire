@@ -44,7 +44,9 @@
         </thead>
         <tbody>
             @if($tasks->isEmpty())
-                <td colspan="4" class="text-center p-2">No tasks available</td>
+                <tr>
+                    <td colspan="4" class="text-center p-2">No tasks available</td>
+                </tr>
             @else
                 @foreach ($tasks as $item)
                     <tr >
